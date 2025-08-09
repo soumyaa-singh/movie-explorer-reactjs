@@ -2,7 +2,6 @@
   "name": "movie-explorer-reactjs",
   "version": "0.0.1",
   "private": true,
-  "homepage": "https://mantreshkhurana.github.io/movie-explorer-reactjs",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -39,7 +38,7 @@
       "last 1 safari version"
     ]
   },
-  "author": "Mantresh <mantreshkhurana@spyxpo.com> (https://www.mantreshkhurana.com)",
+  "author": "Soumya <soumyasingh@spyxpo.com> (https://www.soumyasingh.info)",
   "repository": {
     "type": "git",
     "url": "https://github.com/mantreshkhurana/movie-explorer-reactjs.git"

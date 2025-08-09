@@ -27,7 +27,7 @@ A simple movie explorer app built using ReactJS. It uses the [The Movie Database
 ## Installation
 
 ```bash
-git clone https://github.com/mantreshkhurana/movie-explorer-reactjs
+git clone https://github.com/soumya-singh/movie-explorer-reactjs
 cd movie-explorer-reactjs
 # Create a .env file in the root directory and add the following line
 # REACT_APP_TMDB_API_KEY=YOUR_TMDB_API
@@ -37,4 +37,4 @@ npm start
 
 ## Author
 
-- [Mantresh](https://github.com/mantreshkhurana)
+- [Soumya](https://github.com/soumya-singh)
